@@ -4,8 +4,11 @@ My older Python code which uses TensorFlow library for training neural networks 
 Due to non availability of 1 day ahead weather forecasts which would include solar data, actual weather data has been used.
 
 Prepared models use Reccurent Neural Network with following structures:
+
 -LSTM
+
 -Encoder-Decoder LSTM
+
 -Bidirectional LSTm
 
 Estimation is done based on 24 hours of predicted weather data in following many-to-many arrangement:
