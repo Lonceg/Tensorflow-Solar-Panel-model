@@ -1,6 +1,6 @@
 # Tensorflow-Solar-Panel-model
 
-Python code which uses TensorFlow library for training neural networks used in PV power estimation based on weather forecasts.
+My older Python code which uses TensorFlow library for training neural networks used in PV power estimation based on weather forecasts.
 Due to non availability of 1 day ahead weather forecasts which would include solar data, actual weather data has been used.
 
 Prepared models use Reccurent Neural Network with following structures:
